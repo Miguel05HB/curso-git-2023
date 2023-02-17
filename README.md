@@ -1,2 +1,3 @@
-# curso-git-2023
+# Mi primer README
+
 Repositorio en curso de FreeCodeCamp
